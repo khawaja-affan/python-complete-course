@@ -38,3 +38,66 @@ Each class includes:
 
 ## 📁 Folder Structure
 
+---
+
+## 🧪 Example Code
+
+### Hello World
+```python
+print("Hello, World!")
+print("This is a simple Python script.")
+party_items: list[str] = ["samosa", "pani puri", "chocolate", "roll"]
+
+party_items.append("ice cream")
+party_items.extend(["chips", "cookies"])
+party_items.remove("pani puri")
+
+print(party_items)
+🎯 Goals of This Repository
+
+Build strong Python fundamentals
+
+Practice clean and readable code
+
+Prepare for exams and real-world projects
+
+Track learning progress on GitHub
+
+🚀 Future Plan
+
+Conditional statements
+
+Loops
+
+Functions
+
+File handling
+
+Object-Oriented Programming
+
+Mini projects
+
+👨‍💻 Author
+
+Affan
+
+📌 Learning Python step by step
+📌 Uploading regular updates
+
+⭐ Support
+
+If you find this repository helpful:
+
+Give it a ⭐
+
+Follow for updates
+
+
+---
+
+## 🟢 Ab Push Kaise Karna Hai (Quick Reminder)
+
+```bash
+git add README.md
+git commit -m "Added professional README for Python Complete Course"
+git push
