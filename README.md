@@ -37,7 +37,18 @@ Each class includes:
 ---
 
 ## 📁 Folder Structure
-
+python-complete-course/
+│
+├── class-01/
+│ └── hello_world.py
+│
+├── class-02/
+│ └── lists_and_variables.py
+│
+├── class-03/ # coming soon
+├── class-04/ # coming soon
+│
+└── README.md
 ---
 
 ## 🧪 Example Code
